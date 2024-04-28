@@ -4,7 +4,6 @@ I uploaded this repo to ensure I can successfully manage source control and uplo
 
 <!-- It outputs "Hello world" to the console. -->
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 https://youtu.be/jSJPBzlMO0k
 
